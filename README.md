@@ -22,9 +22,9 @@ O notebook realiza as seguintes etapas:
 
 ## 📈 Principais Insights
 
-- Identificação dos meses com maior volume de vendas
-- Produtos mais vendidos
-- Correlações entre variáveis
+- Identificação dos meses com maior volume de ataques
+- faixa etária mais afetada
+- Correlações entre as pessoas
 - Tendências ao longo do tempo
 
 ## 💡 Objetivo
