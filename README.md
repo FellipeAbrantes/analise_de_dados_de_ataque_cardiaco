@@ -18,6 +18,7 @@ O notebook realiza as seguintes etapas:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- NumPy
 
 ## 📈 Principais Insights
 
