@@ -1,35 +1,56 @@
 # 📊 Projeto de Portfólio - Análise de ataques cardíacos no japão.
 
-Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habilidades em **análise de dados com Python**, utilizando bibliotecas como **pandas**, **matplotlib** e **seaborn**. A proposta é analisar um conjunto de dados de vendas mensais e extrair insights relevantes.
+🩺 Sobre o Projeto
 
-## 📁 Sobre o Projeto
+Este projeto tem como objetivo explorar e analisar dados de ataques cardíacos para identificar padrões, correlações e possíveis fatores de risco. Através de técnicas de análise exploratória de dados (EDA) e visualizações, buscamos transformar dados brutos em insights que possam apoiar decisões de saúde preventiva.
 
-O notebook realiza as seguintes etapas:
+🎯 Objetivos
 
-- Leitura e preparação dos dados
-- Análise exploratória
-- Visualizações para identificar padrões 
-- Conclusões com base nos dados
+Explorar dados de pacientes com ataques cardíacos.
 
-## 🛠 Tecnologias Utilizadas
+Identificar variáveis que mais influenciam a ocorrência de ataques cardíacos.
 
-- Python 3
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- NumPy
+Visualizar tendências ao longo do tempo, faixas etárias e distribuição por gênero.
 
-## 📈 Principais Insights
+Preparar dados para possíveis análises preditivas futuras.
 
-- Identificação dos meses com maior volume de ataques
-- faixa etária mais afetada
-- Correlações entre as pessoas
-- Tendências ao longo do tempo
+🛠️ Tecnologias e Bibliotecas Utilizadas
 
-## 💡 Objetivo
+Python 3
 
-O objetivo principal é demonstrar domínio com ferramentas de análise de dados, visualização e extração de insights — uma habilidade essencial para áreas como **Ciência de Dados**, **Business Intelligence** e **Desenvolvimento de Software com foco em dados**.
+Pandas – manipulação e limpeza de dados
+
+NumPy – operações matemáticas
+
+Matplotlib e Seaborn – visualizações gráficas
+
+Jupyter Notebook – desenvolvimento e documentação do projeto
+
+🔍 Metodologia
+
+Carregamento dos dados: importação do dataset para análise.
+
+Limpeza e tratamento: identificação e tratamento de valores ausentes (NaN), tipos de dados e inconsistências.
+
+Análise exploratória (EDA):
+
+Estatísticas descritivas básicas.
+
+Análise de distribuição de idade, gênero e outros fatores de risco.
+
+Visualizações de tendências temporais e correlações entre variáveis.
+
+Insights: extração de padrões e conclusões a partir das análises gráficas e estatísticas.
+
+📊 Resultados e Insights
+
+Faixas etárias de maior risco: pacientes acima de X anos apresentam maior ocorrência de ataques cardíacos.
+
+Distribuição por gênero: homens têm maior incidência em comparação às mulheres.
+
+Tendências mensais: determinados meses apresentam aumento nos casos, indicando possíveis padrões sazonais.
+
+Correlação entre variáveis: algumas condições de saúde (como hipertensão e colesterol) mostraram correlação com ataques cardíacos.
 
 ## 🚀 Como Executar
 
