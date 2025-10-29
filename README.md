@@ -8,7 +8,7 @@ O notebook realiza as seguintes etapas:
 
 - Leitura e preparação dos dados
 - Análise exploratória
-- Visualizações para identificar padrões de venda
+- Visualizações para identificar padrões 
 - Conclusões com base nos dados
 
 ## 🛠 Tecnologias Utilizadas
