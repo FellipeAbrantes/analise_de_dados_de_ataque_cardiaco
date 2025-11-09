@@ -52,6 +52,8 @@ Tendências mensais: determinados meses apresentam aumento nos casos, indicando 
 
 Correlação entre variáveis: algumas condições de saúde (como hipertensão e colesterol) mostraram correlação com ataques cardíacos.
 
+📊 [Baixar apresentação do projeto (PowerPoint)](Analise-de-Dados-sobre-Ataques-Cardiacos-no-Japao-ajj.pptx)
+
 ## 🚀 Como Executar
 
 1. Clone o repositório
