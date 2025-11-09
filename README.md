@@ -64,7 +64,6 @@ Correlação entre variáveis: algumas condições de saúde (como hipertensão 
 
 Fellipe Abrantes Soares  
 📧 fellipeabrantesoares@gmail.com  
-📍 João Pessoa - PB, Brasil
 
 ---
 
